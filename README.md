@@ -1,6 +1,13 @@
-# WheelsTresCuartos_Project
-# Project - Pontificia Universidad Javeriana. Grupo tres cuartos.
+# Wheels - TresCuartos Project
+[English](#wheeltrescuartos_project) | [Español](#proyecto-wheels---trescuartos)
 
-ENG: Project of a university mobility application (Sharing a vehicle). It makes use of JavaFX and the application of software design patterns.
+## About the repository
+This project is a university mobility application for sharing vehicles. It is developed using JavaFX and applies software design patterns.
 
-ESP: Proyecto de una aplicacion de movilidad universitaria (Compartir vehiculo). Hace uso de JavaFX y la aplicacion de patrones de diseño de software.
+---
+
+# Proyecto Wheels - TresCuartos
+[English](#wheeltrescuartos_project) | [Español](#proyecto-wheels---trescuartos)
+
+## Acerca del repositorio
+Este proyecto es una aplicación de movilidad universitaria para compartir vehículos. Está desarrollado utilizando JavaFX y aplica patrones de diseño de software.
