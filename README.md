@@ -1,6 +1,6 @@
 # Wheels - TresCuartos Project
 
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=luisalejandrobf&repo=WheelsTresCuartos_Project&label=Welcome%20to%20the%20repository!%20You're%20visitor%20number&style=flat-square&color=%233864CF&contentType=svg)
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=luisalejandrobf.WheelsTresCuartos_Project&left_text=Views)
 
 ## About the repository
 This project is a university mobility application for sharing vehicles. It is developed using JavaFX and applies software design patterns.
